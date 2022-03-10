@@ -1,0 +1,27 @@
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\bin\Debug\localization.exe
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\bin\Debug\localization.pdb
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\bin\Debug\Emgu.CV.dll
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\bin\Debug\Emgu.CV.UI.dll
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\bin\Debug\Emgu.Util.dll
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\obj\x86\Debug\localization.LocalizationLab.resources
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\obj\x86\Debug\localization.Properties.Resources.resources
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\obj\x86\Debug\localization.csproj.GenerateResource.Cache
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\obj\x86\Debug\localization.exe
+c:\users\farzad\documents\visual studio 2010\Projects\localization\localization\obj\x86\Debug\localization.pdb
+C:\Users\farzad\documents\visual studio 2010\Projects\localization\localization\obj\x86\Debug\localization.csprojResolveAssemblyReference.cache
+H:\localization\localization\bin\Debug\localization.exe
+H:\localization\localization\bin\Debug\localization.pdb
+H:\localization\localization\obj\x86\Debug\localization.LocalizationLab.resources
+H:\localization\localization\obj\x86\Debug\localization.Properties.Resources.resources
+H:\localization\localization\obj\x86\Debug\localization.csproj.GenerateResource.Cache
+H:\localization\localization\obj\x86\Debug\localization.exe
+H:\localization\localization\obj\x86\Debug\localization.pdb
+H:\localization\localization\obj\x86\Debug\localization.csprojResolveAssemblyReference.cache
+G:\localization\localization\bin\Debug\localization.exe
+G:\localization\localization\bin\Debug\localization.pdb
+G:\localization\localization\obj\x86\Debug\localization.LocalizationLab.resources
+G:\localization\localization\obj\x86\Debug\localization.Properties.Resources.resources
+G:\localization\localization\obj\x86\Debug\localization.csproj.GenerateResource.cache
+G:\localization\localization\obj\x86\Debug\localization.csproj.CopyComplete
+G:\localization\localization\obj\x86\Debug\localization.exe
+G:\localization\localization\obj\x86\Debug\localization.pdb

@@ -1,0 +1,8 @@
+G:\localization\localization\bin\Debug\LineDetection.exe
+G:\localization\localization\bin\Debug\LineDetection.pdb
+G:\localization\localization\obj\x86\Debug\LineDetection.LineDetectionForm.resources
+G:\localization\localization\obj\x86\Debug\localization.Properties.Resources.resources
+G:\localization\localization\obj\x86\Debug\LineDetection.csproj.GenerateResource.cache
+G:\localization\localization\obj\x86\Debug\LineDetection.csproj.CopyComplete
+G:\localization\localization\obj\x86\Debug\LineDetection.exe
+G:\localization\localization\obj\x86\Debug\LineDetection.pdb
